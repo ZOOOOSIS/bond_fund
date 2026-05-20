@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__google-sheets__list_spreadsheets",
+      "mcp__google-sheets__list_sheets",
+      "mcp__google-sheets__get_sheet_data"
+    ]
+  }
+}

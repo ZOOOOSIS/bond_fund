@@ -1,0 +1,2 @@
+## streamlit 실행: python -m streamlit run app.py
+## bot 실행: python bond_bot.py
